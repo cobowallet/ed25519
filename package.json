@@ -3,7 +3,7 @@
   "version": "0.0.4",
   "description": "An Ed25519 implementation for node.js",
   "dependencies": {
-    "bindings": "^1.2.1",
+    "bindings": "git+ssh://git@github.com:cobowallet/node-bindings.git#2ae46568e6cd874a96e81218484e883069b9fbd2",
     "nan": "^2.0.9"
   },
   "main": "index.js",
